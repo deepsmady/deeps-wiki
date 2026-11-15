@@ -10,3 +10,6 @@
 
 ## 2026-11-15 — Orientation confirmed
 - Owner confirmed Tower 4 plan and directions are identical to the brief. Removed the Tower 3/4 mirror risk from brief.md. Affects: Vastu zoning, layout (Phase 3). No firm-research changes.
+
+## 2026-11-15 — Kitchen reference received
+- Saved inputs/ref-kitchen.jpg; handle @straitarc_studio recorded; added reference observations to brief.md; updated Straitarc row in research/firms.md. Affects: Phase 2 themes (kitchen arch/tile/stools), firm shortlist (Straitarc still unverified).
