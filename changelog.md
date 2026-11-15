@@ -19,3 +19,7 @@
 - Captured Design Cafe and Livspace published price bands; computed that your ₹14.5L fixed scope sits in Essentials-to-low-Premium. Affects: Phase 4 BOQ rates, Phase 2 cost per option.
 - Livspace Trustpilot 1.3/5 (143 reviews) and Reddit complaints: downgraded Livspace/HomeLane. New top-3 proposal: Strait Arc, Dearc Studio, Bonito.
 - Rewrote research/firms.md (v2); appended to research/design-ideas.md.
+
+## 2026-11-15 — Propsoch listing data pasted
+- Added: possession Mar 2028; 1,835 sq ft config tagged East (supports orientation); floor height 2.95 m; bathroom-count conflict (listing 2 vs plan 3); door spec differences. Marked third-party/unverified.
+- Decisions affected: Phase 4 timeline (starts at handover ~Mar 2028; add a pre-possession builder-request window), false-ceiling heights (Phase 3), price validity in quote brief.
