@@ -23,3 +23,6 @@
 ## 2026-11-15 — Propsoch listing data pasted
 - Added: possession Mar 2028; 1,835 sq ft config tagged East (supports orientation); floor height 2.95 m; bathroom-count conflict (listing 2 vs plan 3); door spec differences. Marked third-party/unverified.
 - Decisions affected: Phase 4 timeline (starts at handover ~Mar 2028; add a pre-possession builder-request window), false-ceiling heights (Phase 3), price validity in quote brief.
+
+## 2026-11-15 — Flooring card and master plan screenshots
+- Recorded listing flooring finishes (brochure governs) and a master-plan orientation reading consistent with the 45° statement. No design decisions changed; reinforces the on-site compass check before Vastu-critical carpentry.
