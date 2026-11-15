@@ -26,3 +26,6 @@
 
 ## 2026-11-15 — Flooring card and master plan screenshots
 - Recorded listing flooring finishes (brochure governs) and a master-plan orientation reading consistent with the 45° statement. No design decisions changed; reinforces the on-site compass check before Vastu-critical carpentry.
+
+## 2026-11-15 — D'LIFE deep dive (owner request)
+- Captured D'LIFE's published 3BHK package prices, 3 Bangalore centres, 10-yr warranty claim (no conditions), and mixed reviews (Trustpilot 2.8/3, MouthShut 1.9/9). Updated research/firms.md row and recommendation: D'LIFE proposed as third quote for modular scope. Affects: quote brief, Phase 4 BOQ rates (modular vs custom split).
