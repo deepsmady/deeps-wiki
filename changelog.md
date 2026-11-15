@@ -2,3 +2,8 @@
 ## 2026-11-15 — Phase 1 started
 - Created brief.md from initial brief. Affects: everything.
 - Flagged: input images missing; Straitarc Studio unverifiable; firm quotes should target ~₹14.5–15.7L fixed-work scope.
+
+## 2026-11-15 — Adarsh Lumina brochure received
+- Read brochure (15 pp). Confirmed Tower-3 Wing A plan = your 15 rooms, 1267.35 / 1835 sq ft. Added builder specs and implications to brief.md.
+- Decisions affected: kitchen platform credit (confirmed "unfixed" in specs), electrical scope (no study/kids' TV-data points), wall fixing method (AAC), Vastu orientation (Tower 3 vs Tower 4 may differ — needs your Tower 4 plan/compass), flooring (master is laminate).
+- Firm research unchanged; add to quote brief: ask firms to site-measure after plaster and price AAC-compatible fixings.
