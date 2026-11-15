@@ -13,3 +13,9 @@
 
 ## 2026-11-15 — Kitchen reference received
 - Saved inputs/ref-kitchen.jpg; handle @straitarc_studio recorded; added reference observations to brief.md; updated Straitarc row in research/firms.md. Affects: Phase 2 themes (kitchen arch/tile/stools), firm shortlist (Straitarc still unverified).
+
+## 2026-11-15 — Deep search (Firecrawl)
+- Found Straitarc = Studio Strait Arc (3 words); verified site, Instagram, LLP (incorporated 2026-03-24). Affects: firm shortlist (young-entity risk), quote brief.
+- Captured Design Cafe and Livspace published price bands; computed that your ₹14.5L fixed scope sits in Essentials-to-low-Premium. Affects: Phase 4 BOQ rates, Phase 2 cost per option.
+- Livspace Trustpilot 1.3/5 (143 reviews) and Reddit complaints: downgraded Livspace/HomeLane. New top-3 proposal: Strait Arc, Dearc Studio, Bonito.
+- Rewrote research/firms.md (v2); appended to research/design-ideas.md.

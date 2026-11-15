@@ -25,7 +25,7 @@ Kitchen+peninsula+utility 4.0 | Wardrobes 3.5 | TV/crockery/foyer/pooja/arch/stu
 ## OPEN ISSUES
 - `inputs/ref-kitchen.jpg` received 2026-11-15 (Instagram screenshot, handle @straitarc_studio). `floorplan.png` not received, but the builder brochure (Tower 3 Wing A plan) was read 2026-11-15 and matches the brief (see below).
 - ~~Tower 3 vs Tower 4 orientation~~ RESOLVED 2026-11-15: owner confirms Tower 4 plan and directions are the same as the Tower 3 brochure plan / brief (still verify with on-site compass before Vastu-critical carpentry).
-- "Straitarc Studio" could not be found by web search (see research/firms.md).
+- Straitarc = Studio Strait Arc (found 2026-11-15, young entity, see research/firms.md).
 
 ## BUILDER FACTS (from Adarsh Lumina brochure, read 2026-11-15; file supplied by you, not stored in repo)
 Project: Adarsh Lumina, off Sarjapur Road (Halanayakanahalli, Varthur Hobli). 5 towers G+4, RERA PRM/KA/RERA/1251/446/PR/091024/007139. Brochure says "Vaastu compliant" (builder claim, not verified).
@@ -50,4 +50,4 @@ Project: Adarsh Lumina, off Sarjapur Road (Halanayakanahalli, Varthur Hobli). 5 
 ## KITCHEN REFERENCE — observations (from inputs/ref-kitchen.jpg, 2026-11-15)
 Observed in the image: rounded-corner (large-radius rectangular, not semicircular) walnut-veneer arch frame opening between rooms; ivory/cream walls; large-format ivory vitrified floor; sage-green vertical stacked finger tiles as backsplash; thin black counter; white flat handleless base and wall cabinets; small walnut open niche with cubby in the wall run; black slim hood; two brass dome pendants over the peninsula; walnut peninsula with full-height walnut front; two cane-back stools with walnut legs, footrest ring and grey cushion; sheer ivory curtain at the window; tall fridge/unit with walnut and glass panel at left edge of the opening. Caption (partial): "modern elegance harmonizes with a comforting warmth".
 Assumptions (not visible): exact materials, hardware, dimensions, hood type (ducted or not), cost.
-Instagram handle: @straitarc_studio. Web search finds no site, location, pricing or reviews for it; verify directly via DM/profile before relying on it.
+Instagram handle: @straitarc_studio. Verified 2026-11-15: firm is 'Studio Strait Arc' (studiostraitarc.com), Bengaluru; LLP incorporated 2026-03-24 (young entity); no published pricing/warranty. See research/firms.md.

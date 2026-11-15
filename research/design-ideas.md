@@ -17,3 +17,7 @@ _Accessed 2026-11-15. Ideas are my synthesis; links are sources (no images copie
 6. Toddler: rounded edge profiles, soft-close, magnet locks, wall-anchored tall units.
 7. Kids' room: neutral sage/ivory base, swappable accents, conduit and sockets pre-wired on the east/north wall for a future desk.
 8. Study/elders' room: wall-mounted fold-down desk plus storage daybed; desk faces north or east.
+
+## Added in v2 (from Studio Strait Arc / Dearc Studio public pages, accessed 2026-11-15)
+- Strait Arc positions "traditional Indian roots × modern living" and shows sage-green + warm-timber rooms and an integrated study+wardrobe unit (https://www.instagram.com/straitarc_studio/). → Use an integrated study-and-wardrobe unit in room 7 (study + elders' bed) to keep one wall for the north/east-facing desk.
+- Dearc Studio lists fluted wood panelling, brass hardware and soft-close pull-outs (https://www.dearcstudio.com/). → Fluted walnut-veneer panel behind the pooja niche or TV, brass pulls in the kitchen niche only to hold budget.
