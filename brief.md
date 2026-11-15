@@ -24,14 +24,14 @@ Kitchen+peninsula+utility 4.0 | Wardrobes 3.5 | TV/crockery/foyer/pooja/arch/stu
 
 ## OPEN ISSUES
 - `inputs/ref-kitchen.jpg` still not received. `floorplan.png` not received, but the builder brochure (Tower 3 Wing A plan) was read 2026-11-15 and matches the brief (see below).
-- **Tower 3 vs Tower 4 orientation (unresolved, needs your plan):** the brochure master plan shows Towers 3 and 4 as parallel blocks facing a shared central garden. The brochure only has the Tower 3 Wing A plan; Tower 4's plan may be mirrored/rotated 180° relative to it, which would flip every Vastu direction. Please confirm from your Tower 4 sales plan / on-site compass.
+- ~~Tower 3 vs Tower 4 orientation~~ RESOLVED 2026-11-15: owner confirms Tower 4 plan and directions are the same as the Tower 3 brochure plan / brief (still verify with on-site compass before Vastu-critical carpentry).
 - "Straitarc Studio" could not be found by web search (see research/firms.md).
 
 ## BUILDER FACTS (from Adarsh Lumina brochure, read 2026-11-15; file supplied by you, not stored in repo)
 Project: Adarsh Lumina, off Sarjapur Road (Halanayakanahalli, Varthur Hobli). 5 towers G+4, RERA PRM/KA/RERA/1251/446/PR/091024/007139. Brochure says "Vaastu compliant" (builder claim, not verified).
 - **Unit plan match:** "3 BHK Unit Plan, Tower-3 Wing A": carpet 117.74 sq m = 1267.35 sq ft; SBA 170.48 sq m = 1835 sq ft. All 15 room sizes match your brief exactly. (Utility 6'0"x8'9", Foyer 5'4"x9'2", etc.)
 - **Dimension disclaimer:** sizes are block-to-block, exclude plaster/finish; kitchen platforms, windows, doors, railings subject to change. → measure on site after plastering; do not finalise carpentry from brochure sizes.
-- **Entry:** the plan's entry marker is on the right (east-in-plan) side of the foyer, top-right of the drawing, consistent with your "top-right corner". The north-arrow glyphs on the plans are small and rotated; I could not read them with certainty. Master-plan arrow appears to point up-left on the page. Treat direction as UNVERIFIED until compass check.
+- **Entry:** the plan's entry marker is on the right (east-in-plan) side of the foyer, top-right of the drawing, consistent with your "top-right corner". The north-arrow glyphs on the plans are small and rotated; I could not read them with certainty. Master-plan arrow appears to point up-left on the page. Owner confirms directions match the brief; on-site compass check still recommended.
 - **Flooring:** "Laminated wooden flooring in master bedroom only" (it is a laminate floor, not solid wood); vitrified elsewhere; matt vitrified in balconies, utility, toilets.
 - **Kitchen/utility:** 2 ft ceramic dado in kitchen; provisions for water purifier, gas connection, washing machine and geyser (utility); **granite platform with single-bowl SS sink and veg bowl sink "(Unfixed)"** → matches your plan to ask the builder to skip/credit platform; 4 ft dado in utility.
 - **Toilets:** tile dado to 7 ft; white EWC + granite counter under-counter basin; single-lever mixers; health faucet; geyser provision; false ceiling in all toilets; glass sliding shower partition in master toilet only.
